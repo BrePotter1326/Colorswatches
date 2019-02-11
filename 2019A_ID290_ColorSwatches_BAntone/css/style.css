@@ -1,0 +1,40 @@
+body{
+  background-color:lightgray;
+  margin: 0 auto;
+  overflow: hidden;
+}
+nav{
+  height: 100px;
+  background-color: white;
+  overflow: auto
+}
+#color1{
+  background-color: purple;
+  width: 20%;
+  height: 100vh;
+  float: left;
+}
+#color2{
+  background-color: teal;
+  width:20%;
+  height:100vh;
+  float: left;
+}
+#color3{
+  background-color:blue;
+  width:20%;
+  height:100vh;
+  float: left;
+}
+#color4{
+  background-color:green;
+  width:20%;
+  height:100vh;
+  float: left;
+}
+#color5{
+  background-color:lightgray;
+  width:20%;
+  height:100vh;
+  float: left;
+}

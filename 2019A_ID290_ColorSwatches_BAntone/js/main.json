@@ -1,0 +1,35 @@
+[
+	{
+		"name":"Candy Grey",
+		"swatches":{
+			"color1":"#83858C",
+			"color2":"#CFB1B7",
+			"color3":"#CFBFF7",
+			"color4":"#8B80F9",
+			"color5":"#6CD4FF"
+		},
+		"user":"Billy Bob"
+	},
+	{
+		"name":"Blue Stuff",
+		"swatches":{
+			"color1":"#040F0F",
+			"color2":"#57737A",
+			"color3":"#85BDBF",
+			"color4":"#C2FCF7",
+			"color5":"#C9FBFF"
+		},
+		"user":"Joey John"
+	},
+	{
+		"name":"Ocean Floor",
+		"swatches":{
+			"color1":"#05B2DC",
+			"color2":"#004385",
+			"color3":"#087CA7",
+			"color4":"#033860",
+			"color5":"#031A6B"
+		},
+		"user":"Suzy Sue"
+	}
+]
